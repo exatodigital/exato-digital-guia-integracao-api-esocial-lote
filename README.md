@@ -1,0 +1,1 @@
+# exato-digital-guia-integracao-api-esocial-lote
